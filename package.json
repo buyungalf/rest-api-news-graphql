@@ -1,0 +1,30 @@
+{
+  "name": "rest-api-news-graphql",
+  "version": "1.0.0",
+  "description": "rest api news with graphql",
+  "main": "app.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "graphql",
+    "apollo",
+    "server",
+    "rest",
+    "api"
+  ],
+  "author": "buyungalf",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^16.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "sequelize": "^6.24.0",
+    "tedious": "^15.1.0"
+  }
+}
